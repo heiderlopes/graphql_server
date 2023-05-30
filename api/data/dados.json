@@ -1,0 +1,112 @@
+{
+  "games": [
+    {
+      "name": "Tinco",
+      "active": true,
+      "imageURL": "https://m.media-amazon.com/images/I/61YGYhHgVrL._AC_AA180_.jpg",
+      "type": 2,
+      "createdAt": "2022-10-24T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Bandido",
+      "imageURL": "https://m.media-amazon.com/images/I/61HvcuMobiL._AC_AA180_.jpg",
+      "active": true,
+      "createdAt": "2022-12-07T00:00:00.000Z",
+      "type": 2
+    },
+    {
+      "id": 4,
+      "name": "Hippo",
+      "imageURL": "https://m.media-amazon.com/images/I/61KkmCzCGML._AC_AA180_.jpg",
+      "active": true,
+      "createdAt": "2022-12-07T00:00:00.000Z",
+      "type": 2
+    },
+    {
+      "id": 5,
+      "name": "Velonimo",
+      "imageURL": "https://m.media-amazon.com/images/I/71KYE6dz6TL._AC_AA180_.jpg",
+      "active": true,
+      "createdAt": "2022-12-07T00:00:00.000Z",
+      "type": 2
+    },
+    {
+      "id": 6,
+      "name": "Kariba",
+      "imageURL": "https://m.media-amazon.com/images/I/61grIWSEM3L._AC_AA180_.jpg",
+      "active": true,
+      "createdAt": "2022-12-07T00:00:00.000Z",
+      "type": 2
+    },
+    {
+      "id": 7,
+      "name": "Dobro",
+      "imageURL": "https://m.media-amazon.com/images/I/51lah+TaflL._AC_AA180_.jpg",
+      "active": true,
+      "createdAt": "2022-12-07T00:00:00.000Z",
+      "type": 2
+    },
+    {
+      "id": 8,
+      "name": "Mario Kart 8 Deluxe",
+      "imageURL": "https://cdn.awsli.com.br/2500x2500/1041/1041512/produto/142177551/b16581f4e0.jpg",
+      "active": true,
+      "createdAt": "2022-12-07T00:00:00.000Z",
+      "type": 2
+    },
+    {
+      "name": "God of War",
+      "active": true,
+      "imageURL": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7",
+      "type": 1,
+      "createdAt": "2022-10-24T00:00:00.000Z",
+      "id": 9
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "DIGITAL"
+    },
+    {
+      "id": 2,
+      "type": "FISICO"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nome": "Bill Gates",
+      "ativo": true,
+      "email": "bill@microsoft.com",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "nome": "Stevie Jobs",
+      "ativo": true,
+      "email": "jobs@apple.com",
+      "role": 1
+    },
+    {
+      "nome": "Heider Lopes",
+      "ativo": true,
+      "email": "heider@graphql",
+      "role": 2,
+      "createdAt": "2022-10-24T00:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "type": "ADMIN"
+    },
+    {
+      "id": 2,
+      "type": "USER"
+    }
+  ]
+}
